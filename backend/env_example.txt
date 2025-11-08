@@ -1,0 +1,20 @@
+# Flask Configuration
+SECRET_KEY=your-secret-key-here
+JWT_SECRET_KEY=jwt-secret-string
+
+# Database Configuration
+MONGO_URI=mongodb://localhost:27017/mlaas_platform
+# For MongoDB Atlas (cloud): mongodb+srv://username:password@cluster.mongodb.net/mlaas_platform?retryWrites=true&w=majority
+
+# AWS Configuration
+AWS_ACCESS_KEY_ID=your-aws-access-key
+AWS_SECRET_ACCESS_KEY=your-aws-secret-key
+AWS_BUCKET_NAME=mlaas-platform-data
+AWS_REGION=us-east-1
+
+# Encryption
+ENCRYPTION_KEY=your-encryption-key-here
+
+# Development
+FLASK_ENV=development
+DEBUG=True
