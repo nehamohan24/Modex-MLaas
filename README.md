@@ -1,7 +1,7 @@
-# MLaaS Platform - Collaborative Machine Learning with Encrypted Data
+# Modex: A Machine Learning as a Service (MLaaS) platform
 
-A comprehensive Machine Learning as a Service (MLaaS) platform that enables multiple users to collaboratively train ML models while maintaining data privacy through encryption and federated learning.
-
+A platform designed to make machine learning accessible, secure, and collaborative for users who may not have deep ML expertise.
+At a high level, Modex allows users to upload datasets, train machine-learning models, and run predictions through simple interfaces, without writing ML code.
 ##Installation
 
 ### Prerequisites
